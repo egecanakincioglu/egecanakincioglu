@@ -52,12 +52,15 @@ I enjoy creating systems that are lightweight yet powerful, distributed yet sync
 - ⚙️ If you have any software-related projects or requests, feel free to join our [Discord Server](https://discord.gg/fordevelopment) and reach out to us.  
   
 
-- To get more detailed information about the work I've done, [click here](https://egecanakincioglu.com)  
+- 💤 To get more detailed information about the work I've done, [click here](https://egecanakincioglu.com)  
+  
+
+- 🚀 If you're looking to collaborate on projects with us, have project ideas in mind, or are seeking teams to design joint ventures, you can reach out to me through [Discord](https://discord.gg/fordevelopment) or [our website](https://egecanakincioglu.com). I'm open to proposals and eager to connect!  
 
 
 </td><td valign="top" width="50%">
 
-<div align="right"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kbqr7wumi34dpmh6sdr6nee5ie&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kbqr7wumi34dpmh6sdr6nee5ie&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>
 
 </td></tr></table>  
 
@@ -107,11 +110,11 @@ I enjoy creating systems that are lightweight yet powerful, distributed yet sync
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=egecanakincioglu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egecanakincioglu&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egecanakincioglu&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=egecanakincioglu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
