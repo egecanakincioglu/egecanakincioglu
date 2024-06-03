@@ -143,5 +143,5 @@ I enjoy creating systems that are lightweight yet powerful, distributed yet sync
 <br />
 
 ----
-<div align="center">Created by <a href="https://egecanakincioglu.com/" target="_blank" style="text-decoration: none;">Egecan Akıncıoğlu</a></div>
+<div align="center">Created by [Egecan Akıncıoğlu](https://egecanakincioglu.com/)</div>
 
