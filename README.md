@@ -143,6 +143,4 @@ I enjoy creating systems that are lightweight yet powerful, distributed yet sync
 <br />
 
 ----
-Created by [Egecan Akıncıoğlu](https://egecanakincioglu.com/){:style="text-decoration:none;"}
-
-
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
