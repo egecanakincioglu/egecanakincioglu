@@ -110,11 +110,11 @@ I enjoy creating systems that are lightweight yet powerful, distributed yet sync
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egecanakincioglu&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egecanakincioglu&hide_border=true&theme=transparent&layout=compact" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=egecanakincioglu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=egecanakincioglu&show_icons=true&count_private=true&hide_border=true&theme=transparent&custom_title=My%20GitHub%20profile" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
