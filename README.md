@@ -127,7 +127,8 @@ I enjoy creating systems that are lightweight yet powerful, distributed yet sync
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=egecanakinciogluasd&&style=flat-square" align="center" />
 </div>  
-  
+
+<br/>
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/egecanakincioglu" target="_blank" style="display: inline-block;">
