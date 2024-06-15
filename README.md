@@ -7,8 +7,6 @@ I possess deep knowledge and experience in Java, Spring Boot, Spring Security, H
 
 I enjoy creating systems that are lightweight yet powerful, distributed yet synchronized, beautiful yet effective. Additionally, I regularly write blog posts about system design, databases, security, servers, optimization, and new technologies. I am also interested in promising technologies like Blockchain and PWAs and share my knowledge on these topics.  
 
-<br/>  
-
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
