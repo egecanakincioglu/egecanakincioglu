@@ -104,6 +104,8 @@ I enjoy creating systems that are lightweight yet powerful, distributed yet sync
   </a>
   
  <br/>  
+ 
+ <br/>  
 
 <div align="center">
   <a href="https://github.com/egecanakincioglu" target="_blank">
@@ -124,11 +126,7 @@ I enjoy creating systems that are lightweight yet powerful, distributed yet sync
   <a href="https://stackoverflow.com/users/21363359/egecan-akıncıoğlu" target="_blank">
     <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
   </a> 
-</div> 
-
-<br/> 
-
-<br/>  
+</div>  
 
 ----
 <div align="center">Created by <a href="https://egecanakincioglu.com" target="_blank">Egecan Akıncıoğlu</a></div>
