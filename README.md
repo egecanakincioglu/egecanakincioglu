@@ -95,6 +95,14 @@ I enjoy creating systems that are lightweight yet powerful, distributed yet sync
 
 <br/>  
 
+<br/>  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=egecanakinciogluasd&&style=flat-square" align="left"/>
+  <a href="https://www.buymeacoffee.com/egecanakincioglu" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="right"/>
+  </a>
+</div>  
 
 <a href="https://github.com/egecanakincioglu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -116,15 +124,6 @@ I enjoy creating systems that are lightweight yet powerful, distributed yet sync
 </a> 
 
 <br/> 
-
-<br/>  
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=egecanakinciogluasd&&style=flat-square" align="right"/>
-  <a href="https://www.buymeacoffee.com/egecanakincioglu" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="left"/>
-  </a>
-</div>  
 
 <br/>  
 
