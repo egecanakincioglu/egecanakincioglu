@@ -1,5 +1,13 @@
 ## Greetings 👋, I'm Egecan Akıncıoğlu!  
-  
+
+### Glad to see you here!  
+As a backend developer mastering Java, I have transformed years of freelancing into a full-time career. In the projects I develop, I use cutting-edge technologies to create robust and efficient backend systems.
+
+I possess deep knowledge and experience in Java, Spring Boot, Spring Security, Hibernate, Maven, Docker, Microservices, Thymeleaf, MySQL, Git, JPA, JDBC, Linux, REST, and Jenkins. I design robust and secure systems that handle all the heavy lifting behind your application or website.
+
+I enjoy creating systems that are lightweight yet powerful, distributed yet synchronized, beautiful yet effective. Additionally, I regularly write blog posts about system design, databases, security, servers, optimization, and new technologies. I am also interested in promising technologies like Blockchain and PWAs and share my knowledge on these topics.  
+
+<br/>  
 
 <a href="https://github.com/egecanakincioglu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -18,21 +26,9 @@
 </a>
 <a href="https://stackoverflow.com/users/21363359/egecan-akıncıoğlu" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-  
+</a> 
 
-
-
-### Glad to see you here!  
-As a backend developer mastering Java, I have transformed years of freelancing into a full-time career. In the projects I develop, I use cutting-edge technologies to create robust and efficient backend systems.
-
-I possess deep knowledge and experience in Java, Spring Boot, Spring Security, Hibernate, Maven, Docker, Microservices, Thymeleaf, MySQL, Git, JPA, JDBC, Linux, REST, and Jenkins. I design robust and secure systems that handle all the heavy lifting behind your application or website.
-
-I enjoy creating systems that are lightweight yet powerful, distributed yet synchronized, beautiful yet effective. Additionally, I regularly write blog posts about system design, databases, security, servers, optimization, and new technologies. I am also interested in promising technologies like Blockchain and PWAs and share my knowledge on these topics.  
-  
-
-<br/>  
-
+<br/> 
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
