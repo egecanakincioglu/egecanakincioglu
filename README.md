@@ -33,8 +33,9 @@ I enjoy creating systems that are lightweight yet powerful, distributed yet sync
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kbqr7wumi34dpmh6sdr6nee5ie&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31kbqr7wumi34dpmh6sdr6nee5ie&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31kbqr7wumi34dpmh6sdr6nee5ie&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31kbqr7wumi34dpmh6sdr6nee5ie&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
+</div>
 
 </td></tr></table>  
 
