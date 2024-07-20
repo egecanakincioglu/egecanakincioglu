@@ -1,6 +1,6 @@
-## Greetings 👋, I'm Cartelizm!
+## Greetings 👋, I'm Egecan Akıncıoğlu!  
 
-### Glad to see you here!
+### Glad to see you here!  
 As a backend developer mastering Java, I have transformed years of freelancing into a full-time career. In the projects I develop, I use cutting-edge technologies to create robust and efficient backend systems.
 
 I possess deep knowledge and experience in Java, Spring Boot, Spring Security, Hibernate, Maven, Docker, Microservices, Thymeleaf, MySQL, Git, JPA, JDBC, Linux, REST, and Jenkins. I design robust and secure systems that handle all the heavy lifting behind your application or website.
@@ -16,7 +16,7 @@ I enjoy creating systems that are lightweight yet powerful, distributed yet sync
 - 🌱 I’m currently learning Microservices and Hibernate  
   
 
-- 💻 In addition to my ongoing projects, I am dedicating my spare time to enhancing [Syphia's V1](https://github.com/cartelizm/syphia-beta) version.  
+- 💻 In addition to my ongoing projects, I am dedicating my spare time to enhancing [Syphia's V1](https://github.com/egecanakincioglu/syphia-beta) version.  
   
 
 - ❓ Ask me about anything related to Java and associated technologies  
@@ -25,10 +25,10 @@ I enjoy creating systems that are lightweight yet powerful, distributed yet sync
 - ⚙️ If you have any software-related projects or requests, feel free to join our [Discord Server](https://discord.gg/fordevelopment) and reach out to us.  
   
 
-- 💤 To get more detailed information about the work I've done, [click here](https://cartelizm.com)  
+- 💤 To get more detailed information about the work I've done, [click here](https://egecanakincioglu.com)  
   
 
-- 🚀 If you're looking to collaborate on projects with us, have project ideas in mind, or are seeking teams to design joint ventures, you can reach out to me through [Discord](https://discord.gg/fordevelopment) or [our website](https://cartelizm.com). I'm open to proposals and eager to connect!  
+- 🚀 If you're looking to collaborate on projects with us, have project ideas in mind, or are seeking teams to design joint ventures, you can reach out to me through [Discord](https://discord.gg/fordevelopment) or [our website](https://egecanakincioglu.com). I'm open to proposals and eager to connect!  
 
 
 </td><td valign="top" width="50%">
@@ -85,11 +85,11 @@ I enjoy creating systems that are lightweight yet powerful, distributed yet sync
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartelizm&hide_border=true&theme=transparent&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egecanakincioglu&hide_border=true&theme=transparent&layout=compact" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cartelizm&show_icons=true&count_private=true&hide_border=true&theme=transparent&custom_title=My%20GitHub%20profile" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=egecanakincioglu&show_icons=true&count_private=true&hide_border=true&theme=transparent&custom_title=My%20GitHub%20profile" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -107,10 +107,10 @@ I enjoy creating systems that are lightweight yet powerful, distributed yet sync
 ----
 
 <div align="center">
-  <a href="https://github.com/cartelizm" target="_blank">
+  <a href="https://github.com/egecanakincioglu" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://gitlab.com/cartelizm" target="_blank">
+  <a href="https://gitlab.com/egecanakincioglu" target="_blank">
     <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
   </a>
   <a href="https://instagram.com/egecanakincioglu" target="_blank">
