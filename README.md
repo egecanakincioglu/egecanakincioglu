@@ -107,11 +107,11 @@ and take an active role in API security, service discovery, messaging systems, a
 <table align="center">
     <tr>
         <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egecanakincioglu&hide_border=true&theme=transparent&layout=compact" align="left" style="width: 100%" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egecanakincioglu&hide_border=true&theme=transparent&layout=compact" align="left" style="width: 90%" />
         </td>
         <td valign="top" width="50%">
         <br><br>
-            <img src="https://github-readme-stats.vercel.app/api?username=egecanakincioglu&show_icons=true&count_private=true&hide_border=true&theme=transparent&custom_title=My%20GitHub%20profile" align="left" style="width: 100%" />
+            <img src="https://github-readme-stats.vercel.app/api?username=egecanakincioglu&show_icons=true&count_private=true&hide_border=true&theme=transparent&custom_title=My%20GitHub%20profile" align="left" style="width: 90%" />
         </td>
     </tr>
 </table>
@@ -144,13 +144,14 @@ and take an active role in API security, service discovery, messaging systems, a
 <br>
 
 <div align="center">
-    <a href="https://paypal.me/dsaasd" target="_blank">
-        <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="left"/>
-    </a>
-    <a href="https://www.buymeacoffee.com/asdasda" target="_blank">
-        <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="left"/>
-    </a>
-    <a href="https://ko-fi.com/asdqsada" target="_blank">
-        <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" align="left"/>
-    </a>
+  <a href="https://paypal.me/dsaasd" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" alt="Donate with PayPal"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/asdasda" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" alt="Buy Me a Coffee"/>
+  </a>
+  <a href="https://ko-fi.com/asdqsada" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" alt="Support me on Ko-fi"/>
+  </a>
 </div>
+
