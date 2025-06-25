@@ -3,8 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C181FF&center=true&vCenter=true&width=435&lines=Java%2C+Spring+Boot%2C+PostgreSQL+Specialist;Backend+Engineer+%7C+Redis%2C+Kafka%2C+Docker;REST+API+%26+Microservices+Enthusiast;OAuth2+%2B+Redis+%2B+CI%2FCD+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 
----
-
 <h2>🥀 Greetings, I'm Egecan Akıncıoğlu</h2>
 
 - I am a backend-oriented Software Engineer.  
@@ -22,30 +20,42 @@ and take an active role in API security, service discovery, messaging systems, a
 
 
 <table>
-    <thead>
-        <tr>
-          <th align="left">Project</th>
-          <th align="left">Description</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
+  <tr>
+    <!-- Left: Spotify -->
+    <td valign="top" width="35%">
+      <div align="center">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31kbqr7wumi34dpmh6sdr6nee5ie&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+      </div>
+    </td>
+    <td valign="top" width="65%">
+      <table>
+        <thead>
+          <tr>
+            <th align="left">Project</th>
+            <th align="left">Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
             <td>📦 <a href="https://github.com/enescakmakci/video-platform"><strong>Flareye API</strong></a></td>
             <td>A secure, scalable backend built with Spring Boot, supporting OAuth2 authentication, PostgreSQL, Kafka, Redis, RabbitMQ and Docker.</td>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td>📋 <a href="https://github.com/enescakmakci/blog-site"><strong>Real Time Messaging System</strong></a></td>
             <td>A real-time communication backend using Spring Boot, WebSocket, Kafka, Redis and PostgreSQL, built for high-performance messaging.</td>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td>☄️ <a href="https://github.com/enescakmakci/synthwave-web"><strong>Afra Lighting Web Script</strong></a></td>
             <td>A futuristic UI toolkit built with TypeScript, Next.js, Prisma, Tailwind, and Sass. Inspired by synthwave and cyberpunk visuals.</td>
-        </tr>
-        <tr>
+          </tr>
+          <tr>
             <td>📌 <a href="https://github.com/enescakmakci/synthwave-web"><strong>Cartelizm Personal Portfolio</strong></a></td>
             <td>A modern and responsive portfolio powered by Tailwind, Sass, and Next.js.</td>
-        </tr>
-    </tbody>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
 </table>
 
 <h2 align="left">🌐 Tech Stack & Tools</h2>
