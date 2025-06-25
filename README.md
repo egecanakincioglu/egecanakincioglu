@@ -3,17 +3,23 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C181FF&center=true&vCenter=true&width=435&lines=Java%2C+Spring+Boot%2C+PostgreSQL+Specialist;Backend+Engineer+%7C+Redis%2C+Kafka%2C+Docker;REST+API+%26+Microservices+Enthusiast;OAuth2+%2B+Redis+%2B+CI%2FCD+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-<h2>🥀 Greetings, I'm Egecan Akıncıoğlu</h2>
-
-- I am a backend-oriented Software Engineer.  
-
-- I develop secure, scalable, and sustainable systems using Java and Spring Boot within microservice architectures.
-
-- I build robust infrastructures with technologies such as Redis, PostgreSQL, RabbitMQ, OAuth2, and Docker;  
-and take an active role in API security, service discovery, messaging systems, and CI/CD pipelines.
-
-- I prioritize code quality, clean architecture, and system resilience to deliver production-grade solutions.
-<br>
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <h2>🥀 Greetings, I'm Egecan Akıncıoğlu</h2>
+      <ul>
+        <li>I am a backend-oriented Software Engineer.</li>
+        <li>I develop secure, scalable, and sustainable systems using <strong>Java</strong> and <strong>Spring Boot</strong> within <strong>microservice architectures</strong>.</li>
+        <li>I build robust infrastructures with technologies such as <strong>Redis</strong>, <strong>PostgreSQL</strong>, <strong>RabbitMQ</strong>, <strong>OAuth2</strong>, and <strong>Docker</strong>;
+        and take an active role in <strong>API security</strong>, <strong>service discovery</strong>, <strong>messaging systems</strong>, and <strong>CI/CD pipelines</strong>.</li>
+        <li>I prioritize <strong>code quality</strong>, <strong>clean architecture</strong>, and <strong>system resilience</strong> to deliver production-grade solutions.</li>
+      </ul>
+    </td>
+    <td width="30%" valign="top" align="center">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31kbqr7wumi34dpmh6sdr6nee5ie&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="left">📂 My Recent Projects on GitHub</h2>
@@ -28,19 +34,19 @@ and take an active role in API security, service discovery, messaging systems, a
     </thead>
     <tbody>
         <tr>
-            <td>📦 <a href="https://github.com/enescakmakci/video-platform"><strong>Flareye API</strong></a></td>
+            <td>📦 <a href="https://github.com/egecanakincioglu/video-platform"><strong>Flareye API</strong></a></td>
             <td>A secure, scalable backend built with Spring Boot, supporting OAuth2 authentication, PostgreSQL, Kafka, Redis, RabbitMQ and Docker.</td>
         </tr>
         <tr>
-            <td>📋 <a href="https://github.com/enescakmakci/blog-site"><strong>Real Time Messaging System</strong></a></td>
+            <td>📋 <a href="https://github.com/egecanakincioglu/blog-site"><strong>Real Time Messaging System</strong></a></td>
             <td>A real-time communication backend using Spring Boot, WebSocket, Kafka, Redis and PostgreSQL, built for high-performance messaging.</td>
         </tr>
         <tr>
-            <td>☄️ <a href="https://github.com/enescakmakci/synthwave-web"><strong>Afra Lighting Web Script</strong></a></td>
+            <td>☄️ <a href="https://github.com/egecanakincioglu/synthwave-web"><strong>Afra Lighting Web Script</strong></a></td>
             <td>A futuristic UI toolkit built with TypeScript, Next.js, Prisma, Tailwind, and Sass. Inspired by synthwave and cyberpunk visuals.</td>
         </tr>
         <tr>
-            <td>📌 <a href="https://github.com/enescakmakci/synthwave-web"><strong>Cartelizm Personal Portfolio</strong></a></td>
+            <td>📌 <a href="https://github.com/egecanakincioglu/synthwave-web"><strong>Cartelizm Personal Portfolio</strong></a></td>
             <td>A modern and responsive portfolio powered by Tailwind, Sass, and Next.js.</td>
         </tr>
     </tbody>
