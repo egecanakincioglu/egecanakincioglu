@@ -143,14 +143,14 @@ and take an active role in API security, service discovery, messaging systems, a
 
 <br>
 
-<div align-items="center">
-    <a href="https://paypal.me/dsaasd" target="_blank" style="display: inline-block;">
+<div align="center">
+    <a href="https://paypal.me/dsaasd" target="_blank">
         <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="left"/>
     </a>
-    <a href="https://www.buymeacoffee.com/asdasda" target="_blank" style="display: inline-block;">
+    <a href="https://www.buymeacoffee.com/asdasda" target="_blank">
         <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="left"/>
     </a>
-    <a href="https://ko-fi.com/asdqsada" target="_blank" style="display: inline-block;">
+    <a href="https://ko-fi.com/asdqsada" target="_blank">
         <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" align="left"/>
     </a>
 </div>
