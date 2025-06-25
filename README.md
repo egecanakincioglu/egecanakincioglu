@@ -34,19 +34,19 @@
     </thead>
     <tbody>
         <tr>
-            <td>📦 <a href="https://github.com/egecanakincioglu/video-platform"><strong>Flareye API</strong></a></td>
+            <td>📦 <a href="https://github.com/egecanakincioglu/flareye-api"><strong>Flareye API</strong></a></td>
             <td>A secure, scalable backend built with Spring Boot, supporting OAuth2 authentication, PostgreSQL, Kafka, Redis, RabbitMQ and Docker.</td>
         </tr>
         <tr>
-            <td>📋 <a href="https://github.com/egecanakincioglu/blog-site"><strong>Real Time Messaging System</strong></a></td>
+            <td>📋 <a href="https://github.com/egecanakincioglu/real-time-messaging-system"><strong>Real Time Messaging System</strong></a></td>
             <td>A real-time communication backend using Spring Boot, WebSocket, Kafka, Redis and PostgreSQL, built for high-performance messaging.</td>
         </tr>
         <tr>
-            <td>☄️ <a href="https://github.com/egecanakincioglu/synthwave-web"><strong>Afra Lighting Web Script</strong></a></td>
+            <td>☄️ <a href="https://github.com/egecanakincioglu/afra-lighting-web-script"><strong>Afra Lighting Web Script</strong></a></td>
             <td>A futuristic UI toolkit built with TypeScript, Next.js, Prisma, Tailwind, and Sass. Inspired by synthwave and cyberpunk visuals.</td>
         </tr>
         <tr>
-            <td>📌 <a href="https://github.com/egecanakincioglu/synthwave-web"><strong>Cartelizm Personal Portfolio</strong></a></td>
+            <td>📌 <a href="https://github.com/egecanakincioglu/cartelizm-personal-portfolio"><strong>Cartelizm Personal Portfolio</strong></a></td>
             <td>A modern and responsive portfolio powered by Tailwind, Sass, and Next.js.</td>
         </tr>
     </tbody>
