@@ -20,56 +20,32 @@ and take an active role in API security, service discovery, messaging systems, a
 
 <h2 align="left">📂 My Recent Projects on GitHub</h2>
 
+
 <table>
-  <tr>
-    <td valign="top" width="38%">
-      <div align="center">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31kbqr7wumi34dpmh6sdr6nee5ie&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
-      </div>
-    </td>
-    <td valign="top">
-      <table>
-        <thead>
-          <tr>
-            <th align="left">Project</th>
-            <th align="left">Description</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
+    <thead>
+        <tr>
+          <th align="left">Project</th>
+          <th align="left">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
             <td>📦 <a href="https://github.com/enescakmakci/video-platform"><strong>Flareye API</strong></a></td>
-            <td>A secure, scalable backend built with Spring Boot, supporting OAuth2 authentication, PostgreSQL, Kafka, Redis, RabbitMQ and Docker. Ideal for modern microservices.</td>
-          </tr>
-          <tr>
+            <td>A secure, scalable backend built with Spring Boot, supporting OAuth2 authentication, PostgreSQL, Kafka, Redis, RabbitMQ and Docker.</td>
+        </tr>
+        <tr>
             <td>📋 <a href="https://github.com/enescakmakci/blog-site"><strong>Real Time Messaging System</strong></a></td>
-            <td>A real-time communication backend using Spring Boot, WebSocket, Kafka, Redis and PostgreSQL, designed for high-performance and scalable messaging services.</td>
-          </tr>
-          <tr>
+            <td>A real-time communication backend using Spring Boot, WebSocket, Kafka, Redis and PostgreSQL, built for high-performance messaging.</td>
+        </tr>
+        <tr>
             <td>☄️ <a href="https://github.com/enescakmakci/synthwave-web"><strong>Afra Lighting Web Script</strong></a></td>
-            <td>A futuristic UI toolkit built with TypeScript, Next.js, Express, Prisma, Tailwind, Sass and ESLint. Emphasizes retro gradients, glowing visuals and cyberpunk design.</td>
-          </tr>
-          <tr>
+            <td>A futuristic UI toolkit built with TypeScript, Next.js, Prisma, Tailwind, and Sass. Inspired by synthwave and cyberpunk visuals.</td>
+        </tr>
+        <tr>
             <td>📌 <a href="https://github.com/enescakmakci/synthwave-web"><strong>Cartelizm Personal Portfolio</strong></a></td>
-            <td>A modern and responsive personal portfolio powered by Tailwind, Sass, and Next.js.</td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-  </tr>
-</table>
-
-
-<h2 align="left">📈 GitHub Statistics</h2>
-<table align="center">
-    <tr>
-        <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egecanakincioglu&hide_border=true&theme=transparent&layout=compact" align="left" style="width: 100%" />
-        </td>
-        <td valign="top" width="50%">
-        <br><br>
-            <img src="https://github-readme-stats.vercel.app/api?username=egecanakincioglu&show_icons=true&count_private=true&hide_border=true&theme=transparent&custom_title=My%20GitHub%20profile" align="left" style="width: 100%" />
-        </td>
-    </tr>
+            <td>A modern and responsive portfolio powered by Tailwind, Sass, and Next.js.</td>
+        </tr>
+    </tbody>
 </table>
 
 <h2 align="left">🌐 Tech Stack & Tools</h2>
@@ -128,6 +104,20 @@ and take an active role in API security, service discovery, messaging systems, a
         </td>
     </tr>
 </table>
+
+<h2 align="left">📈 GitHub Statistics</h2>
+<table align="center">
+    <tr>
+        <td valign="top" width="50%">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egecanakincioglu&hide_border=true&theme=transparent&layout=compact" align="left" style="width: 100%" />
+        </td>
+        <td valign="top" width="50%">
+        <br><br>
+            <img src="https://github-readme-stats.vercel.app/api?username=egecanakincioglu&show_icons=true&count_private=true&hide_border=true&theme=transparent&custom_title=My%20GitHub%20profile" align="left" style="width: 100%" />
+        </td>
+    </tr>
+</table>
+
 
 ---
 
