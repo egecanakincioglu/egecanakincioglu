@@ -1,4 +1,4 @@
-<h1 align="center">🌀 Egecan Akıncıoğlu</h1>
+<h1 align="center">🌀 Egecan Akıncıoğlu 🌀</h1>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C181FF&center=true&vCenter=true&width=435&lines=Java%2C+Spring+Boot%2C+PostgreSQL+Specialist;Backend+Engineer+%7C+Redis%2C+Kafka%2C+Docker;REST+API+%26+Microservices+Enthusiast;OAuth2+%2B+Redis+%2B+CI%2FCD+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
