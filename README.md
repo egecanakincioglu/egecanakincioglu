@@ -150,13 +150,13 @@
 <br>
 
 <div align="center">
-  <a href="https://paypal.me/dsaasd" target="_blank">
+  <a href="https://paypal.me/egecanakincioglu" target="_blank">
     <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" alt="Donate with PayPal"/>
   </a>
-  <a href="https://www.buymeacoffee.com/asdasda" target="_blank">
+  <a href="https://www.buymeacoffee.com/egecanakincioglu" target="_blank">
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" alt="Buy Me a Coffee"/>
   </a>
-  <a href="https://ko-fi.com/asdqsada" target="_blank">
+  <a href="https://ko-fi.com/egecanakincioglu" target="_blank">
     <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" alt="Support me on Ko-fi"/>
   </a>
 </div>
