@@ -152,8 +152,5 @@
   <a href="https://www.buymeacoffee.com/akinciogluegecan" target="_blank">
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" alt="Buy Me a Coffee"/>
   </a>
-  <a href="https://ko-fi.com/egecanakincioglu" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" alt="Support me on Ko-fi"/>
-  </a>
 </div>
 
