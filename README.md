@@ -42,7 +42,7 @@
             <td>A real-time communication backend using Spring Boot, WebSocket, Kafka, Redis and PostgreSQL, built for high-performance messaging.</td>
         </tr>
         <tr>
-            <td>☄️ <a href="https://github.com/egecanakincioglu/afra-lighting-web-script"><strong>Afra Lighting Web Script</strong></a></td>
+            <td>☄️ <a href="https://github.com/egecanakincioglu/afra-lighting-full-stack-web-project"><strong>Afra Lighting Web Script</strong></a></td>
             <td>A futuristic UI toolkit built with TypeScript, Next.js, Prisma, Tailwind, and Sass. Inspired by synthwave and cyberpunk visuals.</td>
         </tr>
         <tr>
