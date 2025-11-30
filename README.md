@@ -46,7 +46,7 @@
             <td>A futuristic UI toolkit built with TypeScript, Next.js, Prisma, Tailwind, and Sass. Inspired by synthwave and cyberpunk visuals.</td>
         </tr>
         <tr>
-            <td>📌 <a href="https://github.com/egecanakincioglu/cartelizm-personal-portfolio"><strong>Cartelizm Personal Portfolio</strong></a></td>
+            <td>📌 <a href="https://github.com/egecanakincioglu/cartelizm-personal-portfolio"><strong>Personal Portfolio</strong></a></td>
             <td>A modern and responsive portfolio powered by Tailwind, Sass, and Next.js.</td>
         </tr>
     </tbody>
@@ -54,11 +54,11 @@
 
 <h2 align="left">🌐 Tech Stack & Tools</h2>
 
-<table align="center" width="100%">
+<table style="width:100%; table-layout:fixed;">
   <tr>
-    <td align="center" valign="top" width="33%">
+    <td style="width:33%; text-align:center; vertical-align:top;">
       <h3>Frontend</h3>
-      <div align="center">  
+      <div>
         <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" />
@@ -70,9 +70,9 @@
         <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" />
       </div>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td style="width:33%; text-align:center; vertical-align:top;">
       <h3>Backend</h3>
-      <div align="center">  
+      <div>
         <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" />
@@ -85,9 +85,9 @@
         <img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" height="50" />
       </div>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td style="width:33%; text-align:center; vertical-align:top;">
       <h3>Database & DevOps</h3>
-      <div align="center">  
+      <div>
         <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" />
@@ -103,6 +103,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <h2 align="left">📈 GitHub Statistics</h2>
