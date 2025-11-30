@@ -108,11 +108,11 @@
 <table align="center">
     <tr>
         <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egecanakincioglu&hide_border=true&theme=transparent&layout=compact" align="left" style="width: 90%" />
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=egecanakincioglu&hide_border=true&layout=compact&theme=transparent" align="left" style="width: 90%" />
         </td>
         <td valign="top" width="50%">
         <br><br>
-            <img src="https://github-readme-stats.vercel.app/api?username=egecanakincioglu&show_icons=true&count_private=true&hide_border=true&theme=transparent&custom_title=My%20GitHub%20profile" align="left" style="width: 90%" />
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=egecanakincioglu&show_icons=true&count_private=true&hide_border=true&theme=transparent&custom_title=My%20GitHub%20Profile" align="left" style="width: 90%" />
         </td>
     </tr>
 </table>
@@ -134,7 +134,7 @@
     <a href="https://stackoverflow.com/users/30934087/egecanakincioglu" target="_blank">
         <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
     </a>
-    <a href="https://linkedin.com/in/egecanakincioglu" target="_blank">
+    <a href="https://linkedin.com/in/egecan-akincioglu" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
     <a href="https://instagram.com/egecanakincioglu" target="_blank">
@@ -145,7 +145,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/akinciogluegecan" target="_blank">
+  <a href="https://www.buymeacoffee.com/egecanakincioglu" target="_blank">
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" alt="Buy Me a Coffee"/>
   </a>
 </div>
