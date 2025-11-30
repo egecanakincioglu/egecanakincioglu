@@ -52,9 +52,9 @@
     </tbody>
 </table>
 
-<h2 align="center">🌐 Tech Stack & Tools</h2>
+<h2 align="left">🌐 Tech Stack & Tools</h2>
 
-<table align="left" width="100%">
+<table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="33%">
       <h3>Frontend</h3>
