@@ -104,18 +104,25 @@
     </tr>
 </table>
 
-<h2 align="left">📈 GitHub Statistics</h2>
-<table align="center">
-    <tr>
-        <td valign="top" width="50%">
-            <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=egecanakincioglu&hide_border=true&layout=compact&theme=transparent" align="left" style="width: 90%" />
-        </td>
-        <td valign="top" width="50%">
-        <br><br>
-            <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=egecanakincioglu&show_icons=true&count_private=true&hide_border=true&theme=transparent&custom_title=My%20GitHub%20Profile" align="left" style="width: 90%" />
-        </td>
-    </tr>
+<h2 align="center">📈 GitHub Statistics</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=egecanakincioglu&layout=compact&hide_border=true&bg_color=00000000"
+        width="90%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=egecanakincioglu&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&custom_title=My%20GitHub%20Profile"
+        width="90%"
+      />
+    </td>
+  </tr>
 </table>
+
 
 ---
 
