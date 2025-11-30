@@ -57,7 +57,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="33%">
-      <h3 align="left">🖥️ Frontend</h3>
+      <h3>🖥️ Frontend</h3>
       <div align="center">  
         <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" />
@@ -71,7 +71,7 @@
       </div>
     </td>
     <td align="center" valign="top" width="33%">
-      <h3 align="left">🛠️ Backend</h3>
+      <h3>🛠️ Backend</h3>
       <div align="center">  
         <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" />
@@ -86,7 +86,7 @@
       </div>
     </td>
     <td align="center" valign="top" width="33%">
-      <h3 align="left">☁️ Database & DevOps</h3>
+      <h3>☁️ Database & DevOps</h3>
       <div align="center">  
         <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" />
