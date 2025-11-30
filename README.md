@@ -54,11 +54,11 @@
 
 <h2 align="left">🌐 Tech Stack & Tools</h2>
 
-<table style="width:100%; table-layout:fixed;">
+<table width="100%">
   <tr>
-    <td style="width:33%; text-align:center; vertical-align:top;">
+    <td width="33%" align="center" valign="top">
       <h3>Frontend</h3>
-      <div>
+      <div align="center">
         <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" />
@@ -70,9 +70,9 @@
         <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" />
       </div>
     </td>
-    <td style="width:33%; text-align:center; vertical-align:top;">
+    <td width="33%" align="center" valign="top">
       <h3>Backend</h3>
-      <div>
+      <div align="center">
         <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" />
@@ -85,9 +85,9 @@
         <img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" height="50" />
       </div>
     </td>
-    <td style="width:33%; text-align:center; vertical-align:top;">
+    <td width="33%" align="center" valign="top">
       <h3>Database & DevOps</h3>
-      <div>
+      <div align="center">
         <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" />
@@ -103,7 +103,6 @@
     </td>
   </tr>
 </table>
-
 
 
 <h2 align="left">📈 GitHub Statistics</h2>
