@@ -52,58 +52,64 @@
     </tbody>
 </table>
 
-<h2 align="left">🌐 Tech Stack & Tools</h2>
+<div align="center">
+  <table width="1000">
+    <tr>
+      <td colspan="3" align="left">
+        <h2>🌐 Tech Stack &amp; Tools</h2>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center" valign="top">
+        <h3>Frontend</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" />
+        </div>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <h3>Backend</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" height="50" />
+        </div>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <h3>Database &amp; DevOps</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>Frontend</h3>
-      <div align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" />
-      </div>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>Backend</h3>
-      <div align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" height="50" />
-      </div>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>Database & DevOps</h3>
-      <div align="center">
-        <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" />
-      </div>
-    </td>
-  </tr>
-</table>
-
+<br/>
 
 <h2 align="left">📈 GitHub Statistics</h2>
 
