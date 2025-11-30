@@ -104,7 +104,7 @@
     </tr>
 </table>
 
-<h2 align="center">📈 GitHub Statistics</h2>
+<h2 align="left">📈 GitHub Statistics</h2>
 
 <table align="center" width="100%">
   <tr>
