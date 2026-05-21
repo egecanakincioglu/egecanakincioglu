@@ -13,7 +13,6 @@
         <li>The compiler is fully self-contained: emits native <strong>x86-64 PE32+</strong> executables with no dependency on LLVM, GCC, or any external toolchain. A rich <strong>annotation system</strong> (<code>@Freestanding</code>, <code>@ManualMemory</code>, <code>@CallingConvention</code>, <code>@ForceInline</code>...) bridges hardware-level control with high-level ergonomics.</li>
         <li>Backend Engineer specializing in <strong>Java</strong> and <strong>Spring Boot</strong> microservices with <strong>Redis</strong>, <strong>Kafka</strong>, <strong>RabbitMQ</strong>, <strong>OAuth2</strong>, and <strong>Docker</strong>.</li>
         <li>Full-stack when needed — <strong>TypeScript</strong>, <strong>Next.js</strong>, <strong>React</strong>, <strong>Prisma</strong>, <strong>gRPC</strong>.</li>
-        <li>Committed to <strong>clean architecture</strong>, <strong>SOLID principles</strong>, <strong>memory safety</strong>, and <strong>compiler engineering</strong>.</li>
       </ul>
     </td>
     <td width="30%" valign="top" align="center">
