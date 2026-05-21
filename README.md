@@ -41,16 +41,8 @@
             <td>Stage 0 bootstrap compiler for Arimo, written in Rust. Implements a full pipeline: custom lexer, parser, typechecker, borrow checker, and code generation.</td>
         </tr>
         <tr>
-            <td>📦 <a href="https://github.com/egecanakincioglu/flareye-api"><strong>Flareye API</strong></a></td>
-            <td>A secure, scalable backend built with Spring Boot, supporting OAuth2 authentication, PostgreSQL, Kafka, Redis, RabbitMQ and Docker.</td>
-        </tr>
-        <tr>
-            <td>📋 <a href="https://github.com/egecanakincioglu/real-time-messaging-system"><strong>Real Time Messaging System</strong></a></td>
-            <td>A real-time communication backend using Spring Boot, WebSocket, Kafka, Redis and PostgreSQL, built for high-performance messaging.</td>
-        </tr>
-        <tr>
-            <td>☄️ <a href="https://github.com/egecanakincioglu/afra-lighting-full-stack-web-project"><strong>Afra Lighting Web Script</strong></a></td>
-            <td>Full-stack web application built with TypeScript, Next.js, Express, Prisma, Tailwind, gRPC, and GitHub Actions CI/CD. Inspired by synthwave and cyberpunk visuals.</td>
+            <td>📦 <a href="https://github.com/egecanakincioglu/microservices-platform"><strong>Microservices Platform</strong></a></td>
+            <td>A production-grade Spring Boot 3 microservices architecture with Eureka service discovery, API Gateway, JWT authentication, PostgreSQL, Redis, and Docker.</td>
         </tr>
         <tr>
             <td>🤖 <a href="https://github.com/egecanakincioglu/ai-models-arena-tracker"><strong>AI Models Arena Tracker</strong></a></td>
@@ -125,14 +117,6 @@
       <img 
         src="https://github-readme-stats-eight-theta.vercel.app/api?username=egecanakincioglu&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&custom_title=My%20GitHub%20Profile"
         width="90%"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img
-        src="https://streak-stats.demolab.com?user=egecanakincioglu&hide_border=true&background=00000000"
-        width="60%"
       />
     </td>
   </tr>
