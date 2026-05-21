@@ -9,6 +9,8 @@
       <h2>👋 Hi, I'm Egecan Akıncıoğlu</h2>
       <ul>
         <li>Designing and building <strong>Arimo</strong> — a self-hosting compiled programming language with hybrid memory management (borrow checker + GC), bootstrapped in <strong>Rust</strong>.</li>
+        <li>Arimo targets the full spectrum: <strong>OS kernels</strong>, <strong>device drivers</strong>, and <strong>game engines</strong> at the systems layer — and <strong>Java-grade OOP</strong> at the application layer — all in one language, without compromise.</li>
+        <li>The compiler is fully self-contained: emits native <strong>x86-64 PE32+</strong> executables with no dependency on LLVM, GCC, or any external toolchain. A rich <strong>annotation system</strong> (<code>@Freestanding</code>, <code>@ManualMemory</code>, <code>@CallingConvention</code>, <code>@ForceInline</code>...) bridges hardware-level control with high-level ergonomics.</li>
         <li>Backend Engineer specializing in <strong>Java</strong> and <strong>Spring Boot</strong> microservices with <strong>Redis</strong>, <strong>Kafka</strong>, <strong>RabbitMQ</strong>, <strong>OAuth2</strong>, and <strong>Docker</strong>.</li>
         <li>Full-stack when needed — <strong>TypeScript</strong>, <strong>Next.js</strong>, <strong>React</strong>, <strong>Prisma</strong>, <strong>gRPC</strong>.</li>
         <li>Committed to <strong>clean architecture</strong>, <strong>SOLID principles</strong>, <strong>memory safety</strong>, and <strong>compiler engineering</strong>.</li>
