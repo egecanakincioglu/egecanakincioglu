@@ -1,6 +1,6 @@
-<h1 align="center">Egecan Akıncıoğlu - Software Engineer</h1>
+<h1 align="center">Egecan Akıncıoğlu - Software Engineer & Language Designer</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C181FF&center=true&vCenter=true&width=435&lines=Java%2C+Spring+Boot%2C+PostgreSQL+Specialist;Backend+Engineer+%7C+Redis%2C+Kafka%2C+Docker;REST+API+%26+Microservices+Architect;Clean+Architecture+%7C+SOLID+%7C+CI%2FCD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C181FF&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+Java%2C+Spring+Boot%2C+Kafka;Language+Designer+%7C+Creator+of+Arimo;Compiler+Engineer+%7C+Rust%2C+LLVM%2C+FFI;Full-Stack+%7C+TypeScript%2C+Next.js%2C+React" alt="Typing SVG" />
 </p>
 
 <table>
@@ -8,10 +8,10 @@
     <td width="70%" valign="top">
       <h2>👋 Hi, I'm Egecan Akıncıoğlu</h2>
       <ul>
-        <li>Backend-focused Software Engineer specializing in <strong>Java</strong> and <strong>Spring Boot</strong> within <strong>microservice architectures</strong>.</li>
-        <li>Build production-grade systems with <strong>Redis</strong>, <strong>PostgreSQL</strong>, <strong>Kafka</strong>, <strong>RabbitMQ</strong>, <strong>OAuth2</strong>, and <strong>Docker</strong>.</li>
-        <li>Active in <strong>API security</strong>, <strong>service discovery</strong>, <strong>event-driven messaging</strong>, and <strong>CI/CD pipelines</strong>.</li>
-        <li>Committed to <strong>clean architecture</strong>, <strong>SOLID principles</strong>, and <strong>system resilience</strong>.</li>
+        <li>Designing and building <strong>Arimo</strong> — a self-hosting compiled programming language with hybrid memory management (borrow checker + GC), bootstrapped in <strong>Rust</strong>.</li>
+        <li>Backend Engineer specializing in <strong>Java</strong> and <strong>Spring Boot</strong> microservices with <strong>Redis</strong>, <strong>Kafka</strong>, <strong>RabbitMQ</strong>, <strong>OAuth2</strong>, and <strong>Docker</strong>.</li>
+        <li>Full-stack when needed — <strong>TypeScript</strong>, <strong>Next.js</strong>, <strong>React</strong>, <strong>Prisma</strong>, <strong>gRPC</strong>.</li>
+        <li>Committed to <strong>clean architecture</strong>, <strong>SOLID principles</strong>, <strong>memory safety</strong>, and <strong>compiler engineering</strong>.</li>
       </ul>
     </td>
     <td width="30%" valign="top" align="center">
@@ -33,6 +33,14 @@
     </thead>
     <tbody>
         <tr>
+            <td>🔮 <a href="https://github.com/egecanakincioglu/arimo"><strong>Arimo</strong></a></td>
+            <td>A self-hosting compiled programming language with hybrid memory management (borrow checker + GC), LLVM integration, FFI, async/await, and SIMD types. Written in Java.</td>
+        </tr>
+        <tr>
+            <td>⚙️ <a href="https://github.com/egecanakincioglu/arimo-bootstrap"><strong>Arimo Bootstrap</strong></a></td>
+            <td>Stage 0 bootstrap compiler for Arimo, written in Rust. Implements a full pipeline: custom lexer, parser, typechecker, borrow checker, and code generation.</td>
+        </tr>
+        <tr>
             <td>📦 <a href="https://github.com/egecanakincioglu/flareye-api"><strong>Flareye API</strong></a></td>
             <td>A secure, scalable backend built with Spring Boot, supporting OAuth2 authentication, PostgreSQL, Kafka, Redis, RabbitMQ and Docker.</td>
         </tr>
@@ -42,11 +50,11 @@
         </tr>
         <tr>
             <td>☄️ <a href="https://github.com/egecanakincioglu/afra-lighting-full-stack-web-project"><strong>Afra Lighting Web Script</strong></a></td>
-            <td>A futuristic UI toolkit built with TypeScript, Next.js, Prisma, Tailwind, and Sass. Inspired by synthwave and cyberpunk visuals.</td>
+            <td>Full-stack web application built with TypeScript, Next.js, Express, Prisma, Tailwind, gRPC, and GitHub Actions CI/CD. Inspired by synthwave and cyberpunk visuals.</td>
         </tr>
         <tr>
-            <td>📌 <a href="https://github.com/egecanakincioglu/cartelizm-personal-portfolio"><strong>Personal Portfolio</strong></a></td>
-            <td>A modern and responsive portfolio powered by Tailwind, Sass, and Next.js.</td>
+            <td>🤖 <a href="https://github.com/egecanakincioglu/ai-models-arena-tracker"><strong>AI Models Arena Tracker</strong></a></td>
+            <td>AI benchmark aggregator using Llama 3 for score normalization. Scrapes LMSYS and Hugging Face leaderboards, runs 8x daily via GitHub Actions, deploys to Vercel.</td>
         </tr>
     </tbody>
 </table>
@@ -70,18 +78,18 @@
       </div>
     </td>
     <td align="center" valign="top" width="33%">
-      <h3>🛠️ Backend</h3>
+      <h3>🛠️ Backend & Systems</h3>
       <div align="center">  
+        <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" height="50" />
+        <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />
+        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50" />
         <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" height="50" />
       </div>
     </td>
     <td align="center" valign="top" width="33%">
@@ -163,4 +171,3 @@
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
   </a>
 </div>
-
