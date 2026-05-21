@@ -21,6 +21,42 @@
 </table>
 
 
+<h2 align="left">🔮 Arimo — A Programming Language</h2>
+
+<p>A <strong>statically-typed, AOT-compiled systems programming language</strong> with a 3-tier hybrid memory model: compile-time borrow checker → ARC → minimal GC. No garbage collector in the default path. The latest backend generates native <strong>x86-64 PE32+</strong> executables directly — no LLVM or GCC required. The stage 1 compiler is <strong>written in Arimo itself</strong>.</p>
+
+<table>
+  <tr>
+    <td><strong>Memory</strong></td>
+    <td>Borrow checker (compile-time, zero cost) → ARC (shared values) → GC (cycles only)</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Native x86-64 → PE32+ executable — no LLVM, no GCC, no external toolchain</td>
+  </tr>
+  <tr>
+    <td><strong>Type system</strong></td>
+    <td>Static, null-safe (<code>String</code> vs <code>String?</code>), generics, pattern matching, SIMD</td>
+  </tr>
+  <tr>
+    <td><strong>Systems</strong></td>
+    <td>C FFI, inline x86-64 assembly, <code>@ManualMemory</code>, <code>@Freestanding</code>, calling conventions</td>
+  </tr>
+  <tr>
+    <td><strong>Bootstrap</strong></td>
+    <td>Stage 0 in Rust: Lexer → Parser → TypeChecker → BorrowChecker → IRLower → IRToX64 → PEWriter</td>
+  </tr>
+  <tr>
+    <td><strong>Self-hosting</strong></td>
+    <td>Stage 1 compiler (<code>Main.arm</code>) written in Arimo — compiles itself</td>
+  </tr>
+</table>
+
+<p align="right">
+  <a href="https://github.com/egecanakincioglu/arimo"><strong>arimo →</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/egecanakincioglu/arimo-bootstrap"><strong>arimo-bootstrap →</strong></a>
+</p>
+
 <h2 align="left">📂 My Recent Projects on GitHub</h2>
 
 
@@ -34,19 +70,19 @@
     <tbody>
         <tr>
             <td>🔮 <a href="https://github.com/egecanakincioglu/arimo"><strong>Arimo</strong></a></td>
-            <td>A self-hosting compiled programming language with hybrid memory management (borrow checker + GC), LLVM integration, FFI, async/await, and SIMD types. Written in Java.</td>
+            <td>Self-hosting systems programming language. Java-inspired syntax, Rust-like ownership, TypeScript null safety. Compiles to native x86-64 PE32+ with no external toolchain.</td>
         </tr>
         <tr>
             <td>⚙️ <a href="https://github.com/egecanakincioglu/arimo-bootstrap"><strong>Arimo Bootstrap</strong></a></td>
-            <td>Stage 0 bootstrap compiler for Arimo, written in Rust. Implements a full pipeline: custom lexer, parser, typechecker, borrow checker, and code generation.</td>
+            <td>Stage 0 bootstrap compiler written in Rust. Full pipeline: Lexer → Parser → TypeChecker → BorrowChecker → IRLower → IRToX64 → PEWriter. Generates standalone executables.</td>
         </tr>
         <tr>
             <td>📦 <a href="https://github.com/egecanakincioglu/microservices-platform"><strong>Microservices Platform</strong></a></td>
-            <td>A production-grade Spring Boot 3 microservices architecture with Eureka service discovery, API Gateway, JWT authentication, PostgreSQL, Redis, and Docker.</td>
+            <td>Production-grade Spring Boot 3 microservices with Eureka service discovery, API Gateway, JWT authentication, PostgreSQL, Redis, and Docker.</td>
         </tr>
         <tr>
             <td>🤖 <a href="https://github.com/egecanakincioglu/ai-models-arena-tracker"><strong>AI Models Arena Tracker</strong></a></td>
-            <td>AI benchmark aggregator using Llama 3 for score normalization. Scrapes LMSYS and Hugging Face leaderboards, runs 8x daily via GitHub Actions, deploys to Vercel.</td>
+            <td>AI benchmark aggregator using Llama 3 for score normalization. Scrapes LMSYS and Hugging Face leaderboards via 8x daily GitHub Actions pipelines, deploys to Vercel.</td>
         </tr>
     </tbody>
 </table>
