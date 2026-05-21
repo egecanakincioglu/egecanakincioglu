@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td width="30%" valign="top" align="center">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31kbqr7wumi34dpmh6sdr6nee5ie&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31yghuzwfbpibnm3wvtllfijk4mm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
     </td>
   </tr>
 </table>
@@ -23,24 +23,46 @@
 
 <h2 align="left">🔮 Arimo — A Programming Language</h2>
 
-<p>A <strong>statically-typed, AOT-compiled systems programming language</strong> with a 3-tier hybrid memory model: compile-time borrow checker → ARC → minimal GC. No garbage collector in the default path. The latest backend generates native <strong>x86-64 PE32+</strong> executables directly — no LLVM or GCC required. The stage 1 compiler is <strong>written in Arimo itself</strong>.</p>
+<p>
+  <strong>Arimo is a general-purpose, statically-typed, AOT-compiled systems programming language — built from scratch, and already running.</strong>
+  Designed to cover the full spectrum from bare-metal kernel and driver development to high-level OOP application code, all within a single language.
+  It combines <strong>Java-grade object-oriented expressiveness</strong> (classes, interfaces, generics, abstract types, rich annotations) with
+  <strong>systems-level control</strong> (manual memory, inline x86-64 assembly, interrupt handlers, calling conventions) and
+  a <strong>3-tier hybrid memory model</strong> that eliminates GC overhead in the default path.
+  The compiler generates native <strong>x86-64 PE32+</strong> executables with no dependency on LLVM, GCC, or any external toolchain —
+  the entire pipeline lives inside the compiler itself.
+  The stage 1 compiler is <strong>written in Arimo</strong>, making it self-hosting.
+  Arimo is an attempt to close the gap between systems languages and high-level ones — not with compromises, but by design.
+</p>
 
 <table>
   <tr>
+    <td><strong>Status</strong></td>
+    <td>Built from scratch — compiler is functional, programs compile and run</td>
+  </tr>
+  <tr>
+    <td><strong>Use cases</strong></td>
+    <td>OS kernels, device drivers, game engines, high-performance backends, desktop apps</td>
+  </tr>
+  <tr>
     <td><strong>Memory</strong></td>
-    <td>Borrow checker (compile-time, zero cost) → ARC (shared values) → GC (cycles only)</td>
+    <td>Borrow checker (compile-time, zero cost) → ARC (shared values) → GC (cycles only); <code>@ManualMemory</code> for full control</td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td>Native x86-64 → PE32+ executable — no LLVM, no GCC, no external toolchain</td>
+    <td>Native x86-64 → PE32+ — no LLVM, no GCC, no external toolchain; entirely self-contained</td>
   </tr>
   <tr>
-    <td><strong>Type system</strong></td>
-    <td>Static, null-safe (<code>String</code> vs <code>String?</code>), generics, pattern matching, SIMD</td>
+    <td><strong>OOP</strong></td>
+    <td>Classes, structs (value types), interfaces (with defaults), abstract classes, single inheritance, generics with bounds</td>
+  </tr>
+  <tr>
+    <td><strong>Annotations</strong></td>
+    <td><code>@ManualMemory</code> <code>@Freestanding</code> <code>@ForceInline</code> <code>@Pure</code> <code>@Packed</code> <code>@Align</code> <code>@CallingConvention</code> <code>@Likely</code> and more</td>
   </tr>
   <tr>
     <td><strong>Systems</strong></td>
-    <td>C FFI, inline x86-64 assembly, <code>@ManualMemory</code>, <code>@Freestanding</code>, calling conventions</td>
+    <td>C FFI, inline x86-64 assembly, interrupt handlers, syscalls, raw pointers, SIMD (<code>Vec4f</code> / <code>Vec8f</code> / <code>Vec4i</code> / <code>Vec8i</code>)</td>
   </tr>
   <tr>
     <td><strong>Bootstrap</strong></td>
