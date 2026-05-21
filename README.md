@@ -1,18 +1,17 @@
 <h1 align="center">Egecan Akıncıoğlu - Software Engineer</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C181FF&center=true&vCenter=true&width=435&lines=Java%2C+Spring+Boot%2C+PostgreSQL+Specialist;Backend+Engineer+%7C+Redis%2C+Kafka%2C+Docker;REST+API+%26+Microservices+Enthusiast;OAuth2+%2B+Redis+%2B+CI%2FCD+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C181FF&center=true&vCenter=true&width=435&lines=Java%2C+Spring+Boot%2C+PostgreSQL+Specialist;Backend+Engineer+%7C+Redis%2C+Kafka%2C+Docker;REST+API+%26+Microservices+Architect;Clean+Architecture+%7C+SOLID+%7C+CI%2FCD" alt="Typing SVG" />
 </p>
 
 <table>
   <tr>
     <td width="70%" valign="top">
-      <h2>🥀 Greetings, I'm Egecan Akıncıoğlu</h2>
+      <h2>👋 Hi, I'm Egecan Akıncıoğlu</h2>
       <ul>
-        <li>I am a backend-oriented Software Engineer.</li>
-        <li>I develop secure, scalable, and sustainable systems using <strong>Java</strong> and <strong>Spring Boot</strong> within <strong>microservice architectures</strong>.</li>
-        <li>I build robust infrastructures with technologies such as <strong>Redis</strong>, <strong>PostgreSQL</strong>, <strong>RabbitMQ</strong>, <strong>OAuth2</strong>, and <strong>Docker</strong>;
-        and take an active role in <strong>API security</strong>, <strong>service discovery</strong>, <strong>messaging systems</strong>, and <strong>CI/CD pipelines</strong>.</li>
-        <li>I prioritize <strong>code quality</strong>, <strong>clean architecture</strong>, and <strong>system resilience</strong> to deliver production-grade solutions.</li>
+        <li>Backend-focused Software Engineer specializing in <strong>Java</strong> and <strong>Spring Boot</strong> within <strong>microservice architectures</strong>.</li>
+        <li>Build production-grade systems with <strong>Redis</strong>, <strong>PostgreSQL</strong>, <strong>Kafka</strong>, <strong>RabbitMQ</strong>, <strong>OAuth2</strong>, and <strong>Docker</strong>.</li>
+        <li>Active in <strong>API security</strong>, <strong>service discovery</strong>, <strong>event-driven messaging</strong>, and <strong>CI/CD pipelines</strong>.</li>
+        <li>Committed to <strong>clean architecture</strong>, <strong>SOLID principles</strong>, and <strong>system resilience</strong>.</li>
       </ul>
     </td>
     <td width="30%" valign="top" align="center">
@@ -121,6 +120,14 @@
       />
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img
+        src="https://streak-stats.demolab.com?user=egecanakincioglu&hide_border=true&background=00000000"
+        width="60%"
+      />
+    </td>
+  </tr>
 </table>
 
 
@@ -153,7 +160,7 @@
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/egecanakincioglu" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" alt="Buy Me a Coffee"/>
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
   </a>
 </div>
 
